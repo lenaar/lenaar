@@ -60,7 +60,7 @@ Building end-to-end AI solutions with modern tech stacks:
 
 - [`financial-ai-agent`](https://github.com/lenaar/financial-ai-agent) — Full-stack financial analysis platform with LangGraph, React frontend, and Python backend. Features competitor research and interactive feedback loops.
 - [`ai-agent-simple`](https://github.com/lenaar/ai-agent-simple) — Complete AI agent system with LangGraph, SQLite persistence, and RESTful API endpoints.
-- [`agent-json`](https://github.com/yourname/agent-json) — Full-stack agent implementation with JSON-based memory persistence and API integration (under development)
+- [`agent-json`](https://github.com/lenaar/agent-json) — Full-stack agent implementation with JSON-based memory persistence and API integration (under development)
 
 ### Recent Innovations
 - Full-stack low-code workflow automation using `n8n`, `LangChain`, `Vertex AI`, `Zapier`
