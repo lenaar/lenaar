@@ -59,8 +59,8 @@ Led and contributed to multiple full-stack projects serving 20,000+ students and
 Building end-to-end AI solutions with modern tech stacks:
 
 - [`financial-ai-agent`](https://github.com/lenaar/financial-ai-agent) — Full-stack financial analysis platform with LangGraph, React frontend, and Python backend. Features competitor research and interactive feedback loops.
-- [`ai-agent-simple`](https://github.com/lenaar/ai-agent-simple) — Complete AI agent system with LangGraph, SQLite persistence, and RESTful API endpoints.
-- [`memagent-json`](https://github.com/lenaar/memagent-json) — Full-stack agent implementation with JSON-based memory persistence and API integration (under development)
+- [`ai-agent-simple`](https://github.com/lenaar/ai-agent-simple) — Complete AI agent system with LangGraph, SQLite persistence, and RESTful API endpoints to OpenAI and Tavily Search.
+- [`memagent-json`](https://github.com/lenaar/memagent-json) — A simple agent implementation with JSON-based memory persistence and API integration with OpenAI (under development)
 
 ### Recent Innovations
 - Full-stack low-code workflow automation using `n8n`, `LangChain`, `Vertex AI`, `Zapier`
