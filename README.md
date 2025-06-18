@@ -35,7 +35,7 @@ I'm a developer, engineering leader, and CTO with over a decade of experience bu
 ### BankID
 I have built an web app to activate accounts with BankID for all students and employees. It is a hidden repo. Otherwise I have another implementation of it with BankID and websockets:
 
-- [`BankId with websockets`][https://github.com/lenaar/poc-broccoli-bank-id-app] - React, NodeJS, BankId, dynamic QR code
+- [`BankId with websockets`](https://github.com/lenaar/poc-broccoli-bank-id-app) - React, NodeJS, BankId, dynamic QR code
 
 ### AI Agent Fleet
 
