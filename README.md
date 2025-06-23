@@ -37,7 +37,7 @@ Led and contributed to multiple full-stack projects serving 20,000+ students and
   
   - [`kursinfo-web`](https://github.com/KTH/kursinfo-web) — Full-stack platform serving 20,000+ students with React frontend and NodeJS backend. Implemented responsive design, accessibility features, and optimized performance. [450 commits](https://github.com/KTH/kursinfo-web/commits?author=lenaar): `90,271 ++` `271,339 --`
   
-  - [`kopps-public-react-web`](https://github.com/KTH/kopps-public-react-web) — Full-stack application with React frontend and NodeJS/Express backend. Built advanced search functionality, course filtering, and real-time updates. [337 commits](https://github.com/KTH/kopps-public-react-web/commits?author=lenaar): `56,058++ 54,522--`
+  - [`kopps-public-react-web`](https://github.com/KTH/kopps-public-react-web) — Full-stack application with React frontend and NodeJS/Express backend. Built advanced search functionality, course filtering, and program management. [337 commits](https://github.com/KTH/kopps-public-react-web/commits?author=lenaar): `56,058++ 54,522--`
 
 #### Backend Infrastructure & API Development
 - **Technical Lead and API developer** for core backend services and API architecture
@@ -47,7 +47,7 @@ Led and contributed to multiple full-stack projects serving 20,000+ students and
   
   - [`kursinfo-api`](https://github.com/KTH/kursinfo-api) — MongoDB-based API service with NodeJS, handling data aggregation, authentication, and real-time updates. [61 commits](https://github.com/KTH/kursinfo-api/commits?author=lenaar): `19,095 ++` `12,450 --`
   
-  - [`kursstatistik-api`](https://github.com/KTH/kursstatistik-api) — Secure API with stunnel connection to central course database, implementing data validation and transformation. [41 commits](https://github.com/KTH/kursstatistik-api/commits?author=lenaar): `12,208++ 13,526--`
+  - [`kursstatistik-api`](https://github.com/KTH/kursstatistik-api) — Secure API with stunnel connection to central course database, secure Dockerfile with ubuntu, ibm_db and running as a non-root user, implementing data validation and transformation. [41 commits](https://github.com/KTH/kursstatistik-api/commits?author=lenaar): `12,208++ 13,526--`
 
 ### Security & Authentication
 - Developed a secure authentication system using BankID for all students and employees (private repo)
