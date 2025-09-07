@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I'm a full-stack developer, engineering leader, and CTO with over a decade of experience building end-to-end systems, AI infrastructure, and products at the intersection of technology, sustainability, and design. I specialize in creating scalable, user-centric applications with modern tech stacks, from frontend interfaces to backend services and infrastructure.
 
 ### Current Focus
-- 🌱 CTO role: Building AI-based platforms for grid optimization
 - ⚡ Learning: AI Agents (LangGraph, n8n, Zapier), Federated Learning
 - 💬 Expertise: Full-stack architecture, AI pipelines, startup strategy, MVP development
 
